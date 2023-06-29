@@ -43,6 +43,8 @@
 可以用这个视频测试下，它的视频是 `dvh1.05.06`, 音频是 `ec-3`
 
 [穿越5000公里，我们拍到了抹香鲸｜4K杜比视界·杜比全景声](https://www.bilibili.com/video/BV1QX4y1i7B1/)
+![bilibili_vision_atmos_1](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding/assets/13924086/5746e6ad-a240-4c42-99e4-2f221ba01bf7)
+![bilibili_vision_atmos_2](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding/assets/13924086/ecc4c300-142d-4351-9949-4874f48e4824)
 
 
 # 怎么在 Windows 10/11 上听杜比全景声？
