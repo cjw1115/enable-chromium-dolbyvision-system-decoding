@@ -7,6 +7,9 @@
 * 🚧 4386043: Use DirectComposition mode for clear DolbyVision | https://chromium-review.googlesource.com/c/chromium/src/+/4386043
 * 🚧 4388460: match DolbyVision codec with hevc and h264 | https://chromium-review.googlesource.com/c/chromium/src/+/4388460
 
+## 已知问题
+1. 个别机器下面播放出现绿屏，卡顿现象，解决办法可以参考 [Issue https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding/issues/2](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding/issues/2#issuecomment-1615009259)
+
 ## 怎么在 Windows 10/11 上看B站的杜比视界
 
 ### 先决条件
