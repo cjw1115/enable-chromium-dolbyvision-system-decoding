@@ -4,8 +4,8 @@
 > 杜比视界 等价于 Dolby Vision, 本文统一使用 `杜比视界`
 
 ## 代码改动
-🚧 4386043: Use DirectComposition mode for clear DolbyVision | https://chromium-review.googlesource.com/c/chromium/src/+/4386043
-🚧 4388460: match DolbyVision codec with hevc and h264 | https://chromium-review.googlesource.com/c/chromium/src/+/4388460
+* 🚧 4386043: Use DirectComposition mode for clear DolbyVision | https://chromium-review.googlesource.com/c/chromium/src/+/4386043
+* 🚧 4388460: match DolbyVision codec with hevc and h264 | https://chromium-review.googlesource.com/c/chromium/src/+/4388460
 
 ## 怎么在 Windows 10/11 上看B站的杜比视界
 
