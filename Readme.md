@@ -39,12 +39,14 @@
     ```
 3. chrome 启动后在地址栏输入 `chrome://flags/`, 然后找到 `MediaFoundation for Clear` 并且其设置为 enabled（启用），然后关闭浏览器，用第2步的命令重新启动chrome。（修改后它会提示你重启，但不要用他的那个重启按钮，因为它重启后不会携带第2步的参数）
 
+>步骤 3 中 `MediaFoundation for Clear` 在最新的release 中已经不需要了，现在会根据播放的音视频自动选择。
+
 #### 安装 User-Agent 管理器
 1. 打开谷歌 Web 应用商店下载安装 [User-Agent Switcher and Manager](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)
    > 如果你能上github，大概率你也可以打开谷歌应用商店，如果不行，我已经把它下载好放到了 [Release](https://github.com/cjw1115/enable-chromium-dolbyvision-system-decoding/releases/tag/clear_dolby_vision) 里面，找 `user-agent-switcher_v0.4.9.crx` 即可。 
 3. 在 Chrome 扩展中找到 User-Agent Switcher, 然后依次选择 Safari, MacOS, 在列表中挑选版本号最高的一个，最后点击 应用(所有窗口)
 
-> 因为目前B站只给 Safari 提供杜比视界和杜比全景声的流，所以需要修改 chrome 的 user-agent 为 Safari。
+> 因为目前B站只给 Safari 提供杜比全景声的流，所以需要修改 chrome 的 user-agent 为 Safari。如果你只使用杜比视界，就可以忽略这个步骤。
 
 #### 打开B站，体验杜比视界
 可以用这个视频测试下，它的视频是 `dvh1.05.06`, 音频是 `ec-3`
